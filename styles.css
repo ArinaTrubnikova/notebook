@@ -60,3 +60,6 @@
     background-color: darkgreen;
 }
 
+.main-info a:hover {
+    color: darkblue;
+}
